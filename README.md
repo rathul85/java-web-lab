@@ -146,4 +146,4 @@ Run `service/MathServiceTest.java` (right click → Run) to check the maths meth
 
 ## GitHub Project Directory Link
 
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/tree/main/MathWhiz
+ https://github.com/rathul85/java-web-lab
